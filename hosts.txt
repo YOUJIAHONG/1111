@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <title>我的個人網頁</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f0f8ff;
+    }
+    img {
+      width: 200px;
+      height: auto;
+      border-radius: 50%;
+      border: 3px solid #ccc;
+      margin-top: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>你好，我是小白光</h1>
+  <p>歡迎來到我的個人網頁！</p>
+  <img src="me.jpg" alt="我的個人照">
+</body>
+</html>
